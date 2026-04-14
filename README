@@ -1,4 +1,4 @@
-# Voice-Activated AI Assistant (Gemini 2.5 Flash)
+# Voice-Activated AI Assistant (Gemini 2.5 Flash)(python3.11)
 
 A fully localized, voice-controlled Python AI assistant powered by the Gemini 2.5 Flash model. This project features natural conversational memory, OS-level file management, web automation, and is architected to be easily extensible for IoT and embedded systems integration (such as triggering Raspberry Pi GPIO pins via voice).
 
